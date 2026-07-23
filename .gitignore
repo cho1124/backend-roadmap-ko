@@ -1,0 +1,21 @@
+# Obsidian
+.obsidian/
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# 실습 코드를 이 저장소에 두게 될 경우
+node_modules/
+dist/
+.env
+.env.local
+*.log
+*.sqlite
+*.db
