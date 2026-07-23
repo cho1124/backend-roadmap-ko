@@ -203,7 +203,7 @@ eyJhbGciOiJIUzI1NiJ9 . eyJzdWIiOiI0MiIsImV4cCI6MTc1MH0 . SflKxwRJSMeKKF2QT4
    알고리즘              실제 데이터(누구인지, 만료시각)      위조 방지
 ```
 
-**⚠️ 결정적 사실: 앞의 두 조각은 암호화가 아니라 Base64 인코딩이다.**
+**⚠️ 결정적 사실: 앞의 두 조각은 암호화가 아니라 Base64 인코딩이다**(정확히는 URL-safe 변형인 base64url).
 누구나 디코딩해서 내용을 읽을 수 있다.
 
 ```
